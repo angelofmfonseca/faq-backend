@@ -1,0 +1,11 @@
+{
+	"config": {				
+		"mongo": {
+			"host": "mongodb://localhost",
+			"db": "database"
+		},
+		"faq": {
+			"db_collection": "faq"
+		}
+	}
+}
